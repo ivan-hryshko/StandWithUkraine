@@ -1,5 +1,6 @@
 .background-image{
   width: 100%;
+  z-index: -999;
 }
 
 .layout {
@@ -37,8 +38,12 @@
   background-color: rgb(234, 255, 50);
 }
 
+.ship-image{
+  width: 300px;
+}
+
 body {
-  background-image: url(../StandWithUkraine/assets/ship.jpg);
+  background-image: url(https://ivan-hryshko.github.io/StandWithUkraine/assets/ship.jpg);
   /* background-repeat:initial; */
   background-size: cover;
 }
