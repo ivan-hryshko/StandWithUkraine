@@ -1,0 +1,9 @@
+.background-image{
+  width: 100%;
+}
+
+body {
+  background-image: url(/assets/ship.jpg);
+  /* background-repeat:initial; */
+  background-size: cover;
+}
