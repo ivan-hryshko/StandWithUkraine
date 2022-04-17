@@ -23,6 +23,8 @@
   border-radius: 8px;
   padding-left: 8px;
   padding-right: 8px;
+  background-color: rgb(0, 102, 255);
+  height: 40px;
   
 }
 
@@ -32,6 +34,7 @@
   border-radius: 8px;
   text-align: center;
   width: 96px;
+  background-color: rgb(234, 255, 50);
 }
 
 body {
