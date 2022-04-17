@@ -38,7 +38,7 @@
 }
 
 body {
-  background-image: url(/assets/ship.jpg);
+  background-image: url(../StandWithUkraine/assets/ship.jpg);
   /* background-repeat:initial; */
   background-size: cover;
 }
