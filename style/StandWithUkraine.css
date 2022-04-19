@@ -8,6 +8,7 @@
   background: none;
   display: flex;
   justify-content: center;
+
 }
 
 .field-text-box{
@@ -43,7 +44,8 @@
 }
 
 body {
-  background-image: url(https://ivan-hryshko.github.io/StandWithUkraine/assets/ship.jpg);
+  background: url("../assets/ship.jpg") no-repeat center top / cover;
+
   /* background-repeat:initial; */
-  background-size: cover;
+  /* background-size: cover; */
 }
